@@ -1,0 +1,2 @@
+# js
+📦 JS development template
